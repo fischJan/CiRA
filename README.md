@@ -1,0 +1,2 @@
+# CiRA-Causality-Detection-in-Requirement-Artifacts
+System behavior is often expressed by causal relations in requirements (e.g. if event 1 then event 2). Automatically extracting this embedded causal knowledge supports not only reasoning about requirements dependencies, but also various automated engineering tasks such as seamless derivation of test cases. However, causality extraction from natural language (NL) is still an open research challenge as existing approaches fail to extract causality with reasonable performance.
