@@ -13,3 +13,5 @@ For more details on the project, visit our website containing also a live demo o
 ## Licencing and citation
 
 This work is licensed under CC-BY 4.0 (see the respective licence for details). When referring to the data set or the general project, please respect the authors' attribution as described in the licence. These authors can be referred to as via "Jannik Fischbach et al."
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4954090.svg)](https://doi.org/10.5281/zenodo.4954090)
