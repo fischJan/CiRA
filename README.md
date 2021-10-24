@@ -7,6 +7,7 @@ This repository contains our code and annotated data sets used in our case study
   - The file "overall.csv" contains all labeled sentences with all features.
   - The other files contain all eligible sentences with one specific feature. Note that all files for features (except "causal") contain only the causal sub sets of the original set, as we only labeled the more specific features of causality for causal sentences.
 * The code for our machine-learning and deep-learning approaches at automatic causality detection can be found as Jupyter notebook files in the root folder.
+* Results regarding RQ6 are reported in detailed tables in the folder "results".
 For more details on the paper, see "Automatic Detection of Causality in Requirement Artifacts: the CiRA Approach" at https://arxiv.org/abs/2101.10766
 For more details on the project, visit our website containing also a live demo of the DL detection approach at http://www.cira.bth.se/
 
